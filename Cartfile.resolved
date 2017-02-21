@@ -1,2 +1,2 @@
 github "leoneparise/Firebase-Carthage" "d070a63e614a7dc73ef7e171c27ee7298d95690d"
-github "ReactiveX/RxSwift" "2.6.0"
+github "ReactiveX/RxSwift" "3.2.0"
